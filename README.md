@@ -11,3 +11,9 @@ The Bluetooth Android Application is an open-source project that allows users to
 **User-Friendly Interface:** The app offers an intuitive and user-friendly interface for easy navigation and seamless user experience.
 
 **Offline Connectivity:** The Bluetooth communication works even without an active internet connection, making it convenient for remote locations or areas with limited network coverage.
+
+# Technical detail:
+
+- Project Architecture - MVVM
+- Project language - Kotlin
+- Minimum SDK Version - 21 (Android 5-Lollipop)
